@@ -1,1 +1,1 @@
-# konfigpc
+# KonfiguratorPCta
